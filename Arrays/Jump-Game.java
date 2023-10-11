@@ -1,6 +1,6 @@
 // leetcode problem 55. Jump Game
 // Medium
-
+//language-java
 
 class Solution {
     public boolean canJump(int[] nums) {
